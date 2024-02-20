@@ -67,10 +67,11 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-![Screenshot 2024-02-20 060703](https://github.com/hema-dharshini5/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147117728/c14095f6-e95e-437e-9f97-ba450ffecb01)
-![Screenshot 2024-02-20 060721](https://github.com/hema-dharshini5/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147117728/e2772efa-8be1-4ce3-b2ea-91cc24bd4ec7)
-![Screenshot 2024-02-20 060752](https://github.com/hema-dharshini5/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147117728/e4443048-b0a2-4a39-900e-171e02e8d8f5)
-![Screenshot 2024-02-20 060759](https://github.com/hema-dharshini5/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147117728/9a5bbf17-ff68-4bea-9731-6bb7320f5a2e)
+
+![Screenshot 2024-02-20 060703](https://github.com/hema-dharshini5/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147117728/615f9b27-4084-470b-a513-055ea7bc3057)
+![Screenshot 2024-02-20 060721](https://github.com/hema-dharshini5/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147117728/6aa0dea9-b34d-4fab-9ca7-97319ad665ae)
+![Screenshot 2024-02-20 060752](https://github.com/hema-dharshini5/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147117728/ceeca6b2-d5ae-4deb-b470-cbd49094cbb9)
+![Screenshot 2024-02-20 060759](https://github.com/hema-dharshini5/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147117728/fa27be97-3f64-4224-9291-d33eaf087352)
 
 
 
